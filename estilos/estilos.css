@@ -1,0 +1,11 @@
+.centrado{text-align: center;}
+.derecha{text-align: right;}
+.tcentrado{margin: auto;}
+.tittab{background-color: antiquewhite; }
+.inttab{background-color: aquamarine; }
+footer{color: red;}
+body{background-color: gainsboro;}
+.lbig{font-size: 20px;}
+.sombra{box-shadow: 6px 20px 10px black;}
+.tablaley{margin: auto; border: green 5px solid; background-color: antiquewhite; }
+.tablaflip{margin: auto; background-color: black; color: white; border: white;}
